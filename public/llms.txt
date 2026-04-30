@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות המקלדות המכניות הזולות ביותר בישראל! מגוון עצום של מקלדות מכניות לגיימינג במחירים שלא תמצא בשום מקום אחר. Attack Shark X68HE ועוד מותגים מובילים.
+
+### למה מכני
+https://example.com/why-mechanical
+גלה את היתרונות המדהימים של מקלדת מכנית לגיימינג: תגובה מהירה, עמידות מקסימלית וחוויית הקלדה שאין כמוה. הבן למה כל גיימר רציני חייב לשדרג עכשיו.
+
+### אודות
+https://example.com/about
+אנחנו מאמינים שציוד גיימינג איכותי לא חייב לעלות הון. גלה את המשימה שלנו להנגיש מקלדות מכניות מובילות כמו Attack Shark X68HE לכל גיימר בישראל במחיר זול.
+
+### צור קשר
+https://example.com/contact
+יש שאלות על מקלדת מכנית זולה לגיימינג? הצוות המקצועי שלנו כאן לעזור! צור קשר עכשיו לייעוץ אישי, שאלות על מוצרים ומשלוחים ונמצא יחד את העסקה הכי טובה עבורך.
+
+### Products
+https://example.com/products
+המוצרים שלנו - אתר גיימינג במחיירים זולים
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - אתר גיימינג במחיירים זולים
+
+### Category
+https://example.com/category/:slug
+מוצרים - אתר גיימינג במחיירים זולים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
